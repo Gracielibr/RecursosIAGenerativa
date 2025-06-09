@@ -42,4 +42,4 @@ Este repositório explora as funcionalidades do **Copilot (Microsoft)** e das fe
 
 ## **Aprendizado:**  
 
-# O Copilot acelera o desenvolvimento, mas revisão humana é essencial.
+- O Copilot acelera o desenvolvimento, mas revisão humana é essencial.
