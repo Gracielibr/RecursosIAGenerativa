@@ -37,9 +37,8 @@ Este repositório explora as funcionalidades do **Copilot (Microsoft)** e das fe
 - Detalhes no prompt influenciam diretamente a riqueza visual da imagem.  
 
 ### 💻 **Exemplo 3: Geração de Código (Copilot)**  
-- **Prompt:**  
-```python  
-# Implemente uma função em Python que calcule o fatorial de um número usando recursão.
+- **Prompt:**
+  - Implemente uma função em Python que calcule o fatorial de um número usando recursão.
 
 ## **Aprendizado:**  
 
